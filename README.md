@@ -5,7 +5,7 @@ Trabajos de la clase de Minería de Datos
 
 [Codigo_RegresionLineal](https://github.com/soloSergioo/Mineria_de_Datos/blob/master/RegresionL_Temp.ipynb)
 
-[Ejercicios_1](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548)
+[Ejercicios_1](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548/blob/master/Ejercicios1_%7B03%7D_%7B03%7D.pdf)
 
 [MapaMental_1](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548/blob/master/MapaMental_1_1931548.pdf)
 
