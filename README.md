@@ -7,3 +7,5 @@ Trabajos de la clase de Minería de Datos
 
 [Ejercicios_1](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548)
 
+[MapaMental_1](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548/blob/master/MapaMental_1_1931548.pdf)
+
