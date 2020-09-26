@@ -9,3 +9,4 @@ Trabajos de la clase de Minería de Datos
 
 [MapaMental_1](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548/blob/master/MapaMental_1_1931548.pdf)
 
+[Ejercicio_1_Codigo](https://github.com/armandios/armando/blob/master/Ejercicios_1.ipynb)
