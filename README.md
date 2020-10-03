@@ -13,4 +13,6 @@ Trabajos de la clase de Minería de Datos
 
 [Resumenes_Tecnicas](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548/blob/master/Resumenes_%7B1931548%7D.pdf)
 
+[MapaMental_2](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548/blob/master/MapaMental_2_%7B1931548%7D.pdf)
+
 
