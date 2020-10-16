@@ -15,4 +15,6 @@ Trabajos de la clase de Minería de Datos
 
 [MapaMental_2](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548/blob/master/MapaMental_2_%7B1931548%7D.pdf)
 
+[Análisis de Bases de Datos](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548/blob/master/AnálisisBD_1931548.pdf)
+
 
