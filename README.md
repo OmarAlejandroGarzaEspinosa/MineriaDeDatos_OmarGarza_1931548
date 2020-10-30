@@ -23,7 +23,7 @@ Trabajos de la clase de Minería de Datos
 
 [Ejercicios Básicos en Python](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548/blob/master/PythonBasico_1931548.ipynb)
 
-[Avance 1 PIA Equipo 01] (https://github.com/ArlethAlanisAguirre/MineriaDeDatos_ArlethAlanis/blob/master/Avance1-PIA_Equipo01_Grupo03.pdf)
+[Avance 1 PIA Equipo 01] 
 
 
 
