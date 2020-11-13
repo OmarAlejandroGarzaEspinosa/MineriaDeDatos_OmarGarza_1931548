@@ -29,6 +29,8 @@ Trabajos de la clase de Minería de Datos
 
 [Práctica 2 - Visualización de Datos](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548/blob/master/P2-VisualizaciónDeDatos_Equipo01_Grupo03.ipynb)
 
+[Segundo Avance PIA Equipo 01](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548/blob/master/AvancePIA_II_Grupo03_Equipo01.ipynb)
+
 
 
 
